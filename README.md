@@ -1,3 +1,8 @@
+my Tableau Link
+https://public.tableau.com/app/profile/kirui.wilberforce/viz/Aviation_17324306808780/Dashboard1?publish=yes
+
+
+
 Aviation Incident Analysis: Insights and Safety Recommendations
 Overview
 This project aims to analyze aviation incident data to uncover trends, identify factors contributing to accidents, and provide actionable recommendations to enhance aviation safety. Key methods employed in the analysis include:
